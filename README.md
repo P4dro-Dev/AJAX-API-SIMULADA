@@ -1,5 +1,5 @@
 # AJAX-API-SIMULADA
-Desenvolvimento de uma aplicação web simples para Cadastro AJAX com Tabela Dinâmica. O bjtivo foi criar um formulário. JSON Server (db.json): Confiuração de um arquivo db.json para simular um banco de dados. O JSON Server é usad
+Desenvolvimento de uma aplicação web simples para Cadastro AJAX com Tabela Dinâmica. O bjtivo foi criar um formulário. JSON Server (db.json): Confiuração de um arquivo db.json para simular um banco de dados. O JSON Server é usa
 
 
 # 🚀 Projeto de Cadastro AJAX com Tabela Dinâmica
